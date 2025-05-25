@@ -383,24 +383,3 @@ Configured via GitHub Actions:
 * Vercel preview deployments
 
 ---
-
-## 🤝 Contributing & Roadmap
-
-We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) and review the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-**🚀 Roadmap:**
-
-* [ ] OAuth & SSO Integration
-* [ ] CI/CD Webhooks for GitHub/GitLab
-* [ ] Custom Plugin Architecture
-* [ ] Real-time Collaboration Dashboard
-* [ ] Dedicated CLI Tool
-* [ ] Multi-language Support (i18n)
-
----
-
-## 📄 License
-
-AccessiScan is released under the [MIT License](LICENSE).
-
-> *Built with ❤️ | Empowering Accessible Web Experiences*
